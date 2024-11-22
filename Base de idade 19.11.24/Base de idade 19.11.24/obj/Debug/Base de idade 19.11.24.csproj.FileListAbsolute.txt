@@ -1,0 +1,7 @@
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Base de idade 19.11.24\bin\Debug\Base de idade 19.11.24.exe.config
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Base de idade 19.11.24\bin\Debug\Base de idade 19.11.24.exe
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Base de idade 19.11.24\bin\Debug\Base de idade 19.11.24.pdb
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Base de idade 19.11.24\obj\Debug\Base de idade 19.11.24.csproj.AssemblyReference.cache
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Base de idade 19.11.24\obj\Debug\Base de idade 19.11.24.csproj.CoreCompileInputs.cache
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Base de idade 19.11.24\obj\Debug\Base de idade 19.11.24.exe
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Base de idade 19.11.24\obj\Debug\Base de idade 19.11.24.pdb

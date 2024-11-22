@@ -1,0 +1,7 @@
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Lista Brasileirão\bin\Debug\Lista Brasileirão.exe.config
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Lista Brasileirão\bin\Debug\Lista Brasileirão.exe
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Lista Brasileirão\bin\Debug\Lista Brasileirão.pdb
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Lista Brasileirão\obj\Debug\Lista Brasileirão.csproj.AssemblyReference.cache
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Lista Brasileirão\obj\Debug\Lista Brasileirão.csproj.CoreCompileInputs.cache
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Lista Brasileirão\obj\Debug\Lista Brasileirão.exe
+C:\Users\luiz.hlribeiro\source\repos\Base de idade 19.11.24\Lista Brasileirão\obj\Debug\Lista Brasileirão.pdb
